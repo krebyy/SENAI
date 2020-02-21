@@ -8,3 +8,4 @@
 * [CircuitMaker](https://circuitmaker.com/) - projetos de placas eletrônicas.
 * [Scheme-it](https://www.digikey.com/schemeit/project/) - diagramas de blocos e esquemáticos eletrônicos.
 * [CircuitLab](https://www.circuitlab.com/) - simulação de circuitos eletrônicos.
+* [EasyEDA](https://easyeda.com/) - projetos de placas eletrônicas.
