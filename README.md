@@ -4,8 +4,7 @@
 
 ---
 ## Aulas
-### ELE - Eletricidade
-* [Resistores](/Aulas/ELE/Resistores_v1.pdf)
+* [Site](https://sites.google.com/view/klebersenaisp)
 
 ---
 ## Ferramentas Onlines Gratuitas
